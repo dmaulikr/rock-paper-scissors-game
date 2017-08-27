@@ -1,4 +1,4 @@
-# Rock.Paper.Scissors Game
+# Rock, Paper, or Scissors Game
 
 This is a rock, paper, or scissors game app for iOS.
 
